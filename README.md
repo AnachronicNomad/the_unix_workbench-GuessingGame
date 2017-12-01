@@ -1,11 +1,11 @@
-#Coursera - The Unix Workbench - Guessing Game
+# Coursera - The Unix Workbench - Guessing Game
 ------
 
 
-##Created at: 
-Fri Dec  1 19:26:51 UTC 2017
+## Created at: 
+Fri Dec  1 19:32:58 UTC 2017
 
-##LoC: 
+## LoC: 
 19
 ------
 
