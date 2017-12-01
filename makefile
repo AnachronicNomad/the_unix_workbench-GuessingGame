@@ -3,10 +3,10 @@ README.md: guessinggame.sh
 	echo "#Coursera - The Unix Workbench - Guessing Game" > README.md
 	echo "------\n" >> README.md
 
-	echo "##Created at: " >> README.md
-	date >> README.md
+	echo "\n##Created at: " >> README.md
+	date -u >> README.md
 
-	echo "##LoC: " >> README.md
+	echo "\n##LoC: " >> README.md
 	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
 
 	echo "------\n" >> README.md
